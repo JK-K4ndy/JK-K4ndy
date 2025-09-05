@@ -1,4 +1,11 @@
-## Hi there 👋
+<h3> Hello World! </h3>
+
+- Currently using [boot.dev](https://www.boot.dev) to quide my baby steps. 
+- Just getting used to this whole new Git universe.
+
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/cc5cfee9-6ef8-4875-95ab-30520f6f3ad7/thumbnail" >
+</p>
 
 <!--
 **JK-K4ndy/JK-K4ndy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
